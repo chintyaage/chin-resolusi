@@ -1,6 +1,7 @@
 RENCANA BEASISWA
 
 - Mencari daftar beasiswa yang akan buka
+  * JFLS
 - Menyiapkan dokumen-dokumen persyaratan
 - Mencari informasi lebih lanjut
 - Latihan wawancara
