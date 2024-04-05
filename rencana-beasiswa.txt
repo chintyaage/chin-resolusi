@@ -1,4 +1,5 @@
 RENCANA BEASISWA
 
 - Mencari daftar beasiswa yang akan buka
-- Menyiapkan dokumen-dokumen
+- Menyiapkan dokumen-dokumen persyaratan
+- Mencari informasi lebih lanjut
