@@ -6,3 +6,5 @@ RENCANA BEASISWA
   * transkip nilai
 - Mencari informasi lebih lanjut
 - Latihan wawancara
+  * list pertanyaan
+  * membuat jawaban
